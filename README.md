@@ -1,7 +1,7 @@
 # <h5>Monster Chase</h5>
  Monster Chase good Platformer Game for beginner learner unity .
 It is now free and open source and always will be. :clap: :tada:
-| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) |
+| [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) | [:video_camera: Demo](#Demo)
 | --------------- | -------- | ----------- |
 
 <p align="center">
@@ -43,12 +43,6 @@ git clone https://github.com/azizBouchtaoui/Monster-Chase-Game.git
 </p>
 
 <p align="center">
-  <video width="320" height="240" autoplay>
-  <source src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/record.mp4" type="video/mp4">
-</video>
-</p>
-
-<p align="center">
   <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/runn.PNG" />
 </p>
 
@@ -59,6 +53,10 @@ git clone https://github.com/azizBouchtaoui/Monster-Chase-Game.git
 <p align="center">
   <img src="https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/runn3.PNG" />
 </p>
+
+## Demo 
+
+https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/record.mp4
 
 ## Credit
 [:rocket: Patreon](https://www.awesometuts.com)
