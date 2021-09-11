@@ -1,6 +1,8 @@
-# <h5>Monster Chase</h5>
- Monster Chase good Platformer Game for beginner learner unity .
+# Monster Chase - Unity C#
+ Monster Chase  Game for beginner learner unity .
+ 
 It is now free and open source and always will be. :clap: :tada:
+
 | [:sparkles: Getting Started](#getting-started) | [:rocket: Download](#download) | [:camera: Screenshots](#screenshots) | [:video_camera: Demo](#Demo)
 | --------------- | -------- | ----------- |
 
