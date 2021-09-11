@@ -64,4 +64,4 @@ git clone https://github.com/azizBouchtaoui/Monster-Chase-Game.git
 [:rocket: Patreon](https://www.awesometuts.com)
 [:movie_camera: **See the Trailer**](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 
-Made with :heart: by [Bayat Games](https://github.com/azizBouchtaoui)
+Made with :heart: by [Aziz BOUCHTAOUI](https://github.com/azizBouchtaoui)
