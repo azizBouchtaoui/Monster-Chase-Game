@@ -62,7 +62,7 @@ git clone https://github.com/azizBouchtaoui/Monster-Chase-Game.git
 https://github.com/azizBouchtaoui/Monster-Chase-Game/blob/main/Screenshots/record.mp4
 
 ## Credit
-[:rocket: Patreon](https://www.awesometuts.com)
+[:rocket: awesometuts](https://www.awesometuts.com)
 
 [:movie_camera: **Youtube**](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
 
