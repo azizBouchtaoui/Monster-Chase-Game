@@ -33,7 +33,7 @@ Make sure you have the below requirements before starting:
 
 You can get access to Monster Chase source code by using one of the following ways:
 
-- [:sparkles: Download Source Code](https://github.com/azizBouchtaoui/Monster-Chase-Game/archive/refs/heads/main.zip)
+- [:sparkles: Download Source Code](https://github.com/azizBouchtaoui/Monster-Chase-Game/archive/refs/heads/main.zip).
 - Clone the repository locally:
 
 ```bash
