@@ -1,6 +1,6 @@
 # Monster Chase - Unity C#
 
- Monster Chase  Game for beginner learner unity .
+ Monster Chase  Game for beginner learner unity.
  
 It is now free and open source and always will be. :clap: :tada:
 
